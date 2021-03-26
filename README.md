@@ -1,5 +1,5 @@
 # Computer-Networks
-TCP and UDP stuff</br>
+TCP && UDP && Sockets && things</br>
 </br>
 Trying to understand protocols, sockets and all that fun stuff.</br>
 
